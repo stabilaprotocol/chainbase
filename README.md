@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img align="center" src="https://raw.githubusercontent.com/stabilaprotocol/wiki/master/images/Logo_Stabila_WhiteMetal.png" width="200"/>
+</h1>
+
 [![](https://jitpack.io/v/stabilaprotocol/chainbase.svg)](https://jitpack.io/#stabilaprotocol/chainbase)
 
 # chainbase
@@ -47,3 +51,5 @@ Step 2. Add the dependency.
 </dependency>
 	
 ```
+## Suggestions, Feedback & Issues
+If you have a suggestion for improvement, feedback about a specific feature or any issue please contact us at info@stabilascan.org
